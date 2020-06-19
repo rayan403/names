@@ -1,0 +1,55 @@
+body{
+	background: #eee;
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+.inscrip{
+	border: 1px solid black;
+	border-radius: 10px;
+	margin: 145px auto;
+	margin-bottom: 11%;
+	width: 40%;
+	padding: 10px;
+	background: #fff;
+	font-size: 20px;
+    box-shadow: 0 0 12px 6px #9b9b9b;
+
+}
+#name{
+	padding: 5px;
+	margin-bottom: 10px;
+}
+#password{
+	padding: 5px;
+}
+#password2{
+	padding: 5px;
+	margin-top: 10px;
+}
+#email{
+	padding: 5px;
+	margin-bottom: 10px;
+}
+h1{
+	text-decoration: underline rgb(255,106,111);
+}
+h1:hover{
+	text-shadow: 5px 6px 10px;
+}
+.foot{
+	background: #000;
+	color: white;
+	padding: 5px;
+	font-family: georgia;
+}
+#sub_btn{
+	background: rgb(255,106,111);
+	border: 1px solid rgb(255,106,111);
+	border-radius: 9px;
+	padding: 5px;
+	margin-top: 10px;
+}
+#sub_btn:hover{
+	box-shadow: 0 0 12px 6px #9b9b9b;
+}

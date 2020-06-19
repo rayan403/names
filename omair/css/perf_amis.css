@@ -1,0 +1,88 @@
+*{
+	padding: 5px;
+	margin: 0px;
+}
+body{
+	background: #eee;
+	font-family: sans-serif;
+}
+.noned{
+	display: none;
+}
+.head{
+	padding: 10px;
+	border: 2px solid;
+	border-color: rgb(0,100,255);
+	border-radius: 10px 100px;
+	margin: 15px auto;
+	width: 50%;
+	background: #fff;
+	box-shadow: 0 0 12px 8px gray;
+	text-shadow: 5px 5px 7px gray;
+}
+.nom{
+	display: none;
+}
+.tri{
+	display: none;
+}
+.lab{
+	display: none;
+}
+.amis{
+	border: 1px solid rgb(0,0,255);
+	border-radius: 10px;
+	box-shadow: 0 0 6px 2px rgb(0,0,255);
+	padding: 15px;
+	width: 45%;
+	float: right;	
+	background: #fff;
+	text-shadow: 5px 5px 7px gray;
+	font-size: 22px;
+}
+.sahm{
+	font-size: 30px;
+	float: right;
+}
+.sec_1{
+	border: 1px solid rgb(0,0,255);
+	border-radius: 10px;
+	box-shadow: 0 0 6px 2px rgb(0,0,255);
+	padding: 15px;
+	margin: 10px;
+	width: 50%;
+	background: #fff;
+}
+#sub_btn{
+	background: rgb(255,106,111);
+	border: 1px solid rgb(255,106,111);
+	border-radius: 9px;
+	padding: 5px;
+	margin-top: 5px;
+	margin-left: 50%;
+	font-size: 30px;
+}
+#sub_btn:hover{
+	box-shadow: 0 0 12px 6px #9b9b9b;
+	color: rgb(20,100,255);
+	text-decoration: underline black;
+}
+.sec_2{
+	float: left;
+	border: 1px solid gray;
+	border-radius: 10px;
+	width: 70%;
+	padding: 5px;
+	margin: 50px;
+	font-size: 30px;
+	background-color: #fff;
+	box-shadow: 0 0 12px 8px gray;
+}
+.accep{
+	padding: 15px;
+	font-size: 20px;
+	color: rgb(10,20,255);
+}
+.accep:hover{
+	text-decoration: underline  rgb(10,20,255);
+}
